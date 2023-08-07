@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\RandomNumber.h(20,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\RandomNumber.h(20,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\main.cpp(52,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\main.cpp(53,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\main.cpp(204,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\main.cpp(205,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SnakeGame.vcxproj -> C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\x64\Debug\SnakeGame.exe

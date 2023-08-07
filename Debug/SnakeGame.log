@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\RandomNumber.h(20,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\RandomNumber.h(20,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\main.cpp(114,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\main.cpp(173,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\main.cpp(224,24): warning C4018: '<': signed/unsigned mismatch
+  SnakeGame.vcxproj -> C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\SnakeGame\Debug\SnakeGame.exe
